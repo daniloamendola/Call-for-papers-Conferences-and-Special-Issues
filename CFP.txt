@@ -6,7 +6,7 @@ Dear {givenname} {surname}, {title},
 We are pleased to invite you to submit your valuable contribution to this **IEEE JSAC Special Issue** on *5G/6G Precise Positioning on Cooperative Intelligent Transportation Systems (C-ITS) and Connected Automated Vehicles (CAV)*. 
 
 Please find below the text of call-for-papers for the IEEE JSAC Special Issue.
-We will appreciated if you would forward this email to your colleagues that could be interested on paper submission.
+We will appreciate it if you would forward this email to your colleagues that could be interested in paper submission.
 
 Best Regards
 
