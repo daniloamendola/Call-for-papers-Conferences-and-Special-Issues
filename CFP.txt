@@ -55,7 +55,7 @@ JSAC CFP: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/5g6g-precis
 
 ** Important Dates: **
 
-* Manuscript Submission Deadline: 1 December 2022
+* Manuscript Submission Deadline: 15 January 2023
 * First Notification: 1 March 2023
 * Acceptance Notification: 1 May 2023
 * Final Manuscript Due: 15 May 2023
