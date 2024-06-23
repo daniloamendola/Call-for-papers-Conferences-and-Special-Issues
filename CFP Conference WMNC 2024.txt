@@ -1,18 +1,24 @@
 
 Dear {givenname} {surname}, {title},
 
-We are pleased to invite you to submit your valuable contribution to {name} {shortname}.
+We are pleased to invite you to submit your valuable contribution to {name} ({shortname}).
 
 Please find below the text of call-for-papers for the {shortname}. 
 
-The conference has technical sponsorhip from IEEE ComSoc an IFIP.
+The conference has technical sponsorhip from **IEEE ComSoc** and **IFIP**. 
+
 Patrons/Supporters: Ca’ Foscari University of Venice and MDPI.
 
+Accepted papers will be published in the IEEE Xplore and IFIP Digital Library. Authors of selected papers will be invited to submit an extended version for a fast-track review in a Special Issue of well known relevant journals (details will be published soon).
+
 We will appreciate it if you would forward this email to your colleagues that could be interested in paper submission.
+
+For more details please check the {shortname} website: {url}. Papers should be submitted through EDAS at: {NEWPAPER}
 
 Best Regards
 
 *{shortname} Organization Committee*
+
 
 
 -------------------------------------------------------------------------------
@@ -207,10 +213,9 @@ SUBMISSION
 {shortname} technical program committee invites authors to submit manuscripts with original research results that have not been previously published or that are not currently under review by another conference or journal.
 
 
-All submissions should be written in English. Technical papers can be of two types, full papers (up to 8 pages) and short papers (up to 5 pages), in Two-Column IEEE Conference Format, including text, figures and references. Demo papers of length of 3 pages are also solicited. 
+All submissions should be written in English. Technical papers can be of two types, full papers (up to 8 pages) and short papers (up to 5 pages), in Two-Column IEEE Conference Format, including text, figures and references. Demo/poster papers of length of 3 pages are also solicited. 
 
-
-Accepted papers will be published in the IFIP Digital Library. Authors of selected papers will be invited to submit an extended version for a fast-track review in a Special Issue of Annals of Telecommunications or Journal of Network and Systems Management.
+Accepted papers will be published in the IEEE Xplore and IFIP Digital Library. Authors of selected papers will be invited to submit an extended version for a fast-track review in a Special Issue of well known journals (details will be published soon).
 
 Papers should be submitted through EDAS at: {NEWPAPER}
 
@@ -233,6 +238,8 @@ ORGANIZING COMMITTEE
 
     Danilo Amendola, Joint Research Centre (JRC), European Commission (Belgium)
 
+
+-------------------------------------------------------------------------------
 
 
 {UNSUBSCRIBE}
