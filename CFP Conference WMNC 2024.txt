@@ -1,0 +1,233 @@
+
+
+Dear {givenname} {surname}, {title},
+
+We are pleased to invite you to submit your valuable contribution to {name} {shortname}.
+
+Please find below the text of call-for-papers for the {shortname}. 
+The conference has technical sponsorhip from IEEE ComSoc an IFIP.
+Patrons/Supporters: Ca’ Foscari University of Venice and MDPI.
+
+We will appreciate it if you would forward this email to your colleagues that could be interested in paper submission.
+
+Best Regards
+
+*{shortname} Organization Committee*
+
+-------------------------------------------------------------------------------
+            CALL FOR PAPERS
+-------------------------------------------------------------------------------
+            {name}
+            IFIP {shortname}
+            November 11-12, 2024
+            Venice, Italy
+            {url}
+                    
+            Paper/Demo Submission Due: August 1, 2024
+-------------------------------------------------
+
+IFIP {shortname} will provide a discussion forum for researchers, practitioners, and students interested in novel developments in mobile and wireless networks, services, and applications and mobile computing.  IFIP WMNC combines PWC (Personal Wireless Communications conference), MWCN (Mobile and Wireless Communication Networks conference), and WSAN (Wireless Sensors and Actor Networks conference) into one event. It is Technically Sponsored by IFIP and IEEE ComSoc.
+
+
+Authors are invited to submit their original and unpublished research. The following contributions are welcome: research papers reporting on new trends and developments, application papers reporting on academia developments of technologies, products, services, systems and solutions, Performance evaluation and experimentation papers and Industry practice papers.
+ 
+{shortname} includes three main tracks and three special tracks
+
+
+- Track 1: Wireless and Mobile Communications and Networks, Internet Wireless Access
+
+
+- Track 2: Wireless Sensor and Actor Networks, Ad hoc and Opportunistic Networks, Vehicular Networks, Internet of Things
+
+
+- Track 3: Applications and Services over Wireless and Mobile Networks
+
+
+- Special Track on Future Networks
+
+
+- Special Session Track on Network Intelligence (AI for Networks).
+
+
+- Special Session Track on Security for Networks
+
+
+
+
+Particularly, these tracks focus on (but not limited to) the following topics:
+
+
+** Track 1: Wireless and Mobile Communications and Networks, Internet Wireless Access
+
+
+- Wireless and mobile communications and networks
+- 5G and beyond networks
+- Wireless technologies design and evaluation
+- Handoff management
+- Location management
+- Resource management
+- Network and service management and control
+- Energy management and efficiency of protocols and devices
+- Cognitive radio networking
+- Device-to-device communications
+- Routing and scheduling in mobile and wireless networks
+- Transport layer issues in mobile and wireless networks
+- Network security solutions and protocols
+- Subscriber privacy
+- Authentication, Authorization, Accounting
+- Traffic and network modeling
+- Analysis and simulation in wireless/mobile networks
+- Virtualized and cloud-based wireless environment
+- Software-defined wireless networking
+- Unmanned Aircraft Systems/Unmanned Aerial Vehicles/Drones/Remotely Piloted Aircraft Systems (UAS/UAV/RPAS) wireless and mobile networks communications and applications;
+- Counter-Unmanned Aircraft Systems (C-UAS)/Counter-Drones wireless and mobile solutions.
+
+
+
+** Track 2: Wireless Sensor and Actor Networks, Ad hoc and Opportunistic Networks, Vehicular Networks, Internet of Things
+
+
+- Wireless Sensor and Actuator Networks
+- Ad hoc and Opportunistic Networks
+- Low-Power Wide Area Networks
+- Vehicular Networks Cyber-Physical
+- Machine to Machine communications (M2M)
+- Communication Technologies for the IoT
+- Delay tolerant networking
+- Cross layer design and optimization
+- In-network processing and aggregation of information
+- Energy efficient protocols and power management
+- Localization and tracking
+- Middleware for WSN and M2M
+- Self-organization and reconfiguration
+- Security for WSN and M2M
+- Multimedia communications in WSN
+- Vehicular networks
+- Robots as actor networks
+- Nano networks
+- Fog Networking
+- Knowledge, information, sensor, and data fusion: applications, approaches and algorithms;
+
+
+** Track 3: Applications and Services over Wireless and Mobile Networks
+
+
+- Wireless multimedia networking
+- Mobile cloud computing and applications
+- Multicasting and broadcasting issues
+- Multimedia session signaling in wireless/mobile environments
+- Digital radio and TV broadcasting
+- Protocols and platforms for convergence
+- QoS and QoE in wireless/mobile networks
+- Mobile and wireless applications: health, environmental protection, etc.
+- ITS (Intelligent transportation systems)
+- Infotainment
+- Pervasive systems
+- RFID
+- Location based services
+- Mobile services
+- Content management and distribution
+- Context-aware services
+- Information centric networking
+- Social networking
+
+
+** Special Track on Future Networks 
+
+
+- Tactile Internet
+- Novel network architectures and protocols
+- Flexible and programmable RAN
+- Massive MIMO Communications
+- Multi-connectivity/RAT
+- Device-to-Device communications and networking
+- X-haul transport network
+- Millimeter wave communications
+- Network Slicing
+- Edge cloud and fog computing 
+- Future networks for decentralized ML and ML-enhanced future networking 
+- Internet Applications Naming and Identifiers 
+- Design principles and best practices for application development in 5G and beyond
+- Future network simulations and testbeds
+- Federation of networks and services in 5G and beyond
+
+
+** Special Session Track on Network Intelligence (AI for Networks)
+
+
+- Machine Learning (ML) for optimizing protocol design and routing
+- ML/AI for network management 
+- Data analytics for network 
+- Distributed machine learning 
+- ML for real time and low latency network applications 
+- AI-based tools for networking 
+- ML for UAV network resource management
+- ML for UAV network joint trajectory design and task assignment
+- ML for flying base station-user assignment
+- Deep Learning for UAV network protocol design
+- ML for anomaly prediction and detection 
+- ML for network performance evaluation  
+- AI for security and privacy 
+
+
+** Special Session Track on Security for Networks 
+
+
+- Security protocols, 
+- Authentication/Authorisation 
+- Non-Repudiation 
+- Access Control
+- Denial of Service
+- Anonymity
+- Intrusion Detection and Prevention
+- Key Management
+- Viruses and other malicious codes
+- Data Integrity
+- Attacks on wireless networks 
+- Security mechanisms/Services 
+- Multicast Security
+- Security Specification
+- Performance/Security trade-off analysis 
+- Design/Analysis of Security Protocols
+
+
+-------------------------------------------------
+IMPORTANT DATES (For all Tracks and Demos)
+-------------------------------------------------
+- Paper Submission Due (Extended): August 1
+- Notification of Acceptance: September 10
+- Camera-Ready Papers due: September 20
+- Conference Date: November 11-12, 2024
+
+
+-------------------------------------------------
+SUBMISSION
+-------------------------------------------------
+{shortname} technical program committee invites authors to submit manuscripts with original research results that have not been previously published or that are not currently under review by another conference or journal.
+
+
+All submissions should be written in English. Technical papers can be of two types, full papers (up to 8 pages) and short papers (up to 5 pages), in Two-Column IEEE Conference Format, including text, figures and references. Demo papers of length of 3 pages are also solicited. 
+
+
+Accepted papers will be published in the IFIP Digital Library. Authors of selected papers will be invited to submit an extended version for a fast-track review in a Special Issue of Annals of Telecommunications or Journal of Network and Systems Management.
+
+Papers should be submitted through EDAS at: {NEWPAPER}
+
+For more details please check: {url}
+
+
+-------------------------------------------------
+ORGANIZING COMMITTEE
+-------------------------------------------------
+
+- General Chair:
+
+    Peppino Fazio, Ca’ Foscari University of Venice (Italy)
+
+- TPC Co-chairs:
+
+    Eirini Eleni Tsiropoulou, University of New Mexico (USA)
+
+    Carlos Tavares Calafate, Polytechnic University of Valencia (Spain)
+
+    Danilo Amendola, Joint Research Centre (JRC), European Commission (Belgium)
