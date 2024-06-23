@@ -224,10 +224,13 @@ ORGANIZING COMMITTEE
 
     Peppino Fazio, Ca’ Foscari University of Venice (Italy)
 
-- TPC Co-chairs:
+- TPC Chairs:
 
     Eirini Eleni Tsiropoulou, University of New Mexico (USA)
 
     Carlos Tavares Calafate, Polytechnic University of Valencia (Spain)
 
     Danilo Amendola, Joint Research Centre (JRC), European Commission (Belgium)
+
+
+{UNSUBSCRIBE}
