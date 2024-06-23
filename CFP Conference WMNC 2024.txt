@@ -1,10 +1,10 @@
 
-
 Dear {givenname} {surname}, {title},
 
 We are pleased to invite you to submit your valuable contribution to {name} {shortname}.
 
 Please find below the text of call-for-papers for the {shortname}. 
+
 The conference has technical sponsorhip from IEEE ComSoc an IFIP.
 Patrons/Supporters: Ca’ Foscari University of Venice and MDPI.
 
@@ -13,6 +13,7 @@ We will appreciate it if you would forward this email to your colleagues that co
 Best Regards
 
 *{shortname} Organization Committee*
+
 
 -------------------------------------------------------------------------------
             CALL FOR PAPERS
@@ -31,7 +32,7 @@ IFIP {shortname} will provide a discussion forum for researchers, practitioners,
 
 Authors are invited to submit their original and unpublished research. The following contributions are welcome: research papers reporting on new trends and developments, application papers reporting on academia developments of technologies, products, services, systems and solutions, Performance evaluation and experimentation papers and Industry practice papers.
  
-{shortname} includes three main tracks and three special tracks
+** {shortname} includes three main tracks and three special tracks **
 
 
 - Track 1: Wireless and Mobile Communications and Networks, Internet Wireless Access
@@ -57,7 +58,7 @@ Authors are invited to submit their original and unpublished research. The follo
 Particularly, these tracks focus on (but not limited to) the following topics:
 
 
-** Track 1: Wireless and Mobile Communications and Networks, Internet Wireless Access
+** Track 1: Wireless and Mobile Communications and Networks, Internet Wireless Access **
 
 
 - Wireless and mobile communications and networks
@@ -84,7 +85,7 @@ Particularly, these tracks focus on (but not limited to) the following topics:
 
 
 
-** Track 2: Wireless Sensor and Actor Networks, Ad hoc and Opportunistic Networks, Vehicular Networks, Internet of Things
+** Track 2: Wireless Sensor and Actor Networks, Ad hoc and Opportunistic Networks, Vehicular Networks, Internet of Things **
 
 
 - Wireless Sensor and Actuator Networks
@@ -109,7 +110,7 @@ Particularly, these tracks focus on (but not limited to) the following topics:
 - Knowledge, information, sensor, and data fusion: applications, approaches and algorithms;
 
 
-** Track 3: Applications and Services over Wireless and Mobile Networks
+** Track 3: Applications and Services over Wireless and Mobile Networks **
 
 
 - Wireless multimedia networking
@@ -132,7 +133,7 @@ Particularly, these tracks focus on (but not limited to) the following topics:
 - Social networking
 
 
-** Special Track on Future Networks 
+** Special Track on Future Networks **
 
 
 - Tactile Internet
@@ -152,7 +153,7 @@ Particularly, these tracks focus on (but not limited to) the following topics:
 - Federation of networks and services in 5G and beyond
 
 
-** Special Session Track on Network Intelligence (AI for Networks)
+** Special Session Track on Network Intelligence (AI for Networks) **
 
 
 - Machine Learning (ML) for optimizing protocol design and routing
@@ -170,7 +171,7 @@ Particularly, these tracks focus on (but not limited to) the following topics:
 - AI for security and privacy 
 
 
-** Special Session Track on Security for Networks 
+** Special Session Track on Security for Networks **
 
 
 - Security protocols, 
@@ -231,6 +232,7 @@ ORGANIZING COMMITTEE
     Carlos Tavares Calafate, Polytechnic University of Valencia (Spain)
 
     Danilo Amendola, Joint Research Centre (JRC), European Commission (Belgium)
+
 
 
 {UNSUBSCRIBE}
