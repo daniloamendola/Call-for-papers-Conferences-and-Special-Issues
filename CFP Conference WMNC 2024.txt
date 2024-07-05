@@ -5,11 +5,11 @@ We are pleased to invite you to submit your valuable contribution to {name} ({sh
 
 Please find below the text of call-for-papers for the {shortname}. 
 
-The conference has technical sponsorhip from **IEEE ComSoc** and **IFIP**. 
+The conference has technical sponsorship from **IEEE ComSoc** and **IFIP**. 
 
 Patrons/Supporters: Ca’ Foscari University of Venice and MDPI.
 
-Accepted papers will be published in the IEEE Xplore and IFIP Digital Library. Authors of selected papers will be invited to submit an extended version for a fast-track review in a Special Issue of well known relevant journals (details will be published soon).
+Accepted papers will be published in the IEEE Xplore and IFIP Digital Library. Authors of selected papers will be invited to submit an extended version for a fast-track review in a Special Issue of well/known relevant journals (details will be published soon).
 
 We will appreciate it if you would forward this email to your colleagues that could be interested in paper submission.
 
