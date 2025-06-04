@@ -1,0 +1,222 @@
+
+Subject: [Call-for-papers {name} ({shortname}) - Submission due 1st July]
+
+
+Dear {givenname} {surname}, {title},
+
+We are pleased to invite you to submit your valuable contribution to {name} ({shortname}).
+
+Please find below the text of call-for-papers for the {shortname}. 
+
+The conference has technical sponsorship from **IEEE ComSoc** and **IFIP**. 
+
+Patrons/Supporters: University of Leuven
+
+Accepted papers will be published in the IEEE Xplore and IFIP Digital Library. Authors of selected papers will be invited to submit an extended version for a fast-track review in a Special Issue of well known relevant journals (details will be published soon).
+
+We will appreciate it if you would forward this email to your colleagues that could be interested in paper submission.
+
+For more details please check the {shortname} website: {url}. Papers should be submitted through EDAS at: {NEWPAPER}
+
+Best Regards
+
+*{shortname} Organization Committee*
+
+
+
+-------------------------------------------------------------------------------
+            CALL FOR PAPERS
+-------------------------------------------------------------------------------
+            {name}
+            IFIP {shortname}
+            November 27-28, 2025
+            Leuven, Belgium
+            {url}
+                    
+            Paper Submission Due: July 1, 2025
+-------------------------------------------------------------------------------
+
+{shortname} will provide a discussion forum for researchers, practitioners, and students interested in novel developments in mobile and wireless networks, services, and applications and mobile computing.  IFIP WMNC combines PWC (Personal Wireless Communications conference), MWCN (Mobile and Wireless Communication Networks conference), and WSAN (Wireless Sensors and Actor Networks conference) into one event. It is Technically Sponsored by IFIP and IEEE ComSoc.
+
+
+Authors are invited to submit their original and unpublished research. The following contributions are welcome: research papers reporting on new trends and developments, application papers reporting on academia developments of technologies, products, services, systems and solutions, Performance evaluation and experimentation papers and Industry practice papers.
+ 
+** {shortname} includes three main tracks and one special tracks **
+
+
+- Track 1: Wireless and Mobile Communications and Networks, Internet Wireless Access
+
+
+- Track 2: Wireless Sensor and Actor Networks, Ad hoc and Opportunistic Networks, Vehicular Networks, Internet of Things
+
+
+- Track 3: Applications and Services over Wireless and Mobile Networks
+
+
+- Special Track on Drone and Counter-UAS
+
+
+
+Particularly, these tracks focus on (but not limited to) the following topics:
+
+
+** Track 1: Wireless and Mobile Communications and Networks, Internet Wireless Access **
+
+
+- Wireless and mobile communications and networks
+- 5G and beyond networks
+- Wireless technologies design and evaluation
+- Handoff management
+- Location management
+- Resource management
+- Network and service management and control
+- Energy management and efficiency of protocols and devices
+- Cognitive radio networking
+- Device-to-device communications
+- Routing and scheduling in mobile and wireless networks
+- Transport layer issues in mobile and wireless networks
+- Network security solutions and protocols
+- Subscriber privacy
+- Authentication, Authorization, Accounting
+- Traffic and network modeling
+- Analysis and simulation in wireless/mobile networks
+- Virtualized and cloud-based wireless environment
+- Software-defined wireless networking
+- Unmanned Aircraft Systems/Unmanned Aerial Vehicles/Drones/Remotely Piloted Aircraft Systems (UAS/UAV/RPAS) wireless and mobile networks communications and applications;
+- Counter-Unmanned Aircraft Systems (C-UAS)/Counter-Drones wireless and mobile solutions.
+
+
+
+** Track 2: Wireless Sensor and Actor Networks, Ad hoc and Opportunistic Networks, Vehicular Networks, Internet of Things **
+
+
+- Wireless Sensor and Actuator Networks
+- Ad hoc and Opportunistic Networks
+- Low-Power Wide Area Networks
+- Vehicular Networks Cyber-Physical
+- Machine to Machine communications (M2M)
+- Communication Technologies for the IoT
+- Delay tolerant networking
+- Cross layer design and optimization
+- In-network processing and aggregation of information
+- Energy efficient protocols and power management
+- Localization and tracking
+- Middleware for WSN and M2M
+- Self-organization and reconfiguration
+- Security for WSN and M2M
+- Multimedia communications in WSN
+- Vehicular networks
+- Robots as actor networks
+- Nano networks
+- Fog Networking
+- Knowledge, information, sensor, and data fusion: applications, approaches and algorithms;
+
+
+** Track 3: Applications and Services over Wireless and Mobile Networks **
+
+
+- Wireless multimedia networking
+- Mobile cloud computing and applications
+- Multicasting and broadcasting issues
+- Multimedia session signaling in wireless/mobile environments
+- Digital radio and TV broadcasting
+- Protocols and platforms for convergence
+- QoS and QoE in wireless/mobile networks
+- Mobile and wireless applications: health, environmental protection, etc.
+- ITS (Intelligent transportation systems)
+- Infotainment
+- Pervasive systems
+- RFID
+- Location based services
+- Mobile services
+- Content management and distribution
+- Context-aware services
+- Information centric networking
+- Social networking
+
+
+** Special Session on Drone and Counter-UAS **
+
+Drones have become a transformative technology across multiple sectors, including logistics, agriculture, public safety, and defense. However, their widespread use also presents significant security, privacy, and operational challenges. This special session will focus on emerging research and technological advancements in drone communication, autonomous flight, and effective C-UAS systems.
+
+
+- Topics of interest include, but are not limited to:
+
+- Drone communication and networking
+
+- Autonomous navigation and swarm coordination
+
+- Detection, tracking, and identification of drones
+
+- RF and radar-based drone localization
+
+- Electromagnetic signature analysis for drone identification
+
+- C-UAS mitigation techniques and strategies
+
+- AI and machine learning for drone threat assessment
+
+- Multi-sensor data fusion in C-UAS systems
+
+- Cybersecurity in drone systems
+
+- Standardization and regulatory challenges for UAS
+
+- Privacy and ethical considerations in drone technology
+
+- Real-world case studies and field trials
+
+
+-------------------------------------------------
+IMPORTANT DATES (For all Tracks and Demos)
+-------------------------------------------------
+- Paper Submission Due (Extended): July 1
+- Notification of Acceptance: August 20
+- Camera-Ready Papers due: October 1
+- Conference Date: November 27-28, 2025
+
+
+-------------------------------------------------
+SUBMISSION
+-------------------------------------------------
+{shortname} technical program committee invites authors to submit manuscripts with original research results that have not been previously published or that are not currently under review by another conference or journal.
+
+
+All submissions should be written in English. Technical papers can be of two types, full papers (up to 8 pages) and short papers (up to 5 pages), in Two-Column IEEE Conference Format, including text, figures and references. Demo/poster papers of length of 3 pages are also solicited. 
+
+Accepted papers will be published in the IEEE Xplore and IFIP Digital Library. Authors of selected papers will be invited to submit an extended version for a fast-track review in a Special Issue of well known journals (details will be published soon).
+
+Papers should be submitted through EDAS at: {NEWPAPER}
+
+For more details please check: {url}
+
+
+-------------------------------------------------
+ORGANIZING COMMITTEE
+-------------------------------------------------
+
+- General and Programme Chairs: 
+
+      Danilo Amendola (European Commission, Joint Research Centre (JRC)) 
+      Hazem Sallouha (KU Leuven, Belgium) 
+
+
+- Honorary General Co-Chair: 
+
+      Prof. Sofie Pollin (KU Leuven, Belgium) 
+      Prof. Peppino Fazio (Ca' Foscari University of Venice, Italy) 
+
+
+- Technical Programme Committee Chairs: 
+
+      Alessandro Chiumento (University of Twente, Netherlands) 
+      Jeroen Famaey (IDLab, University of Antwerp, Belgium) 
+      Mauro Tropea (University of Calabria, Italy) 
+      Eli De Poorter (IDLab, Ghent University, Belgium) 
+      Savio Sciancalepore (TU Eindhoven, Netherlands)
+
+
+-------------------------------------------------------------------------------
+
+
+{UNSUBSCRIBE}
