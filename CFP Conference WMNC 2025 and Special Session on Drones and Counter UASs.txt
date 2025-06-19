@@ -83,7 +83,8 @@ Particularly, these tracks focus on (but not limited to) the following topics:
 - Virtualized and cloud-based wireless environment
 - Software-defined wireless networking
 - Unmanned Aircraft Systems/Unmanned Aerial Vehicles/Drones/Remotely Piloted Aircraft Systems (UAS/UAV/RPAS) wireless and mobile networks communications and applications;
-- Counter-Unmanned Aircraft Systems (C-UAS)/Counter-Drones wireless and mobile solutions.
+- Counter-Unmanned Aircraft Systems (C-UAS)/Counter-Drones wireless and mobile solutions
+- Cyber-Physical, Satellite, and Autonomous Systems Security.
 
 
 
@@ -109,7 +110,8 @@ Particularly, these tracks focus on (but not limited to) the following topics:
 - Robots as actor networks
 - Nano networks
 - Fog Networking
-- Knowledge, information, sensor, and data fusion: applications, approaches and algorithms;
+- Knowledge, information, sensor, and data fusion: applications, approaches and algorithms
+- Wireless, Mobile, and Physical-Layer IoT Security.
 
 
 ** Track 3: Applications and Services over Wireless and Mobile Networks **
@@ -132,39 +134,27 @@ Particularly, these tracks focus on (but not limited to) the following topics:
 - Content management and distribution
 - Context-aware services
 - Information centric networking
-- Social networking
+- Social networking.
 
 
 ** Special Session on Drone and Counter-UAS **
 
 Drones have become a transformative technology across multiple sectors, including logistics, agriculture, public safety, and defense. However, their widespread use also presents significant security, privacy, and operational challenges. This special session will focus on emerging research and technological advancements in drone communication, autonomous flight, and effective C-UAS systems.
 
-
-- Topics of interest include, but are not limited to:
+Topics of interest include, but are not limited to:
 
 - Drone communication and networking
-
 - Autonomous navigation and swarm coordination
-
 - Detection, tracking, and identification of drones
-
 - RF and radar-based drone localization
-
 - Electromagnetic signature analysis for drone identification
-
 - C-UAS mitigation techniques and strategies
-
 - AI and machine learning for drone threat assessment
-
 - Multi-sensor data fusion in C-UAS systems
-
 - Cybersecurity in drone systems
-
 - Standardization and regulatory challenges for UAS
-
 - Privacy and ethical considerations in drone technology
-
-- Real-world case studies and field trials
+- Real-world case studies and field trials.
 
 
 -------------------------------------------------
