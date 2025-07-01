@@ -1,5 +1,5 @@
 
-Subject: [Call-for-papers {name} ({shortname}) - Submission due 1st July]
+Subject: [Call-for-papers {name} ({shortname}) - Submission EXTENDED due 15st July]
 
 
 Dear {givenname} {surname}, {title},
@@ -33,7 +33,7 @@ Best Regards
             Leuven, Belgium
             {url}
                     
-            Paper Submission Due: July 1, 2025
+            Paper Submission Due: July 15, 2025 (Extended)
 -------------------------------------------------------------------------------
 
 {shortname} will provide a discussion forum for researchers, practitioners, and students interested in novel developments in mobile and wireless networks, services, and applications and mobile computing.  IFIP WMNC combines PWC (Personal Wireless Communications conference), MWCN (Mobile and Wireless Communication Networks conference), and WSAN (Wireless Sensors and Actor Networks conference) into one event. It is Technically Sponsored by IFIP and IEEE ComSoc.
